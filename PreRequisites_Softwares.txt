@@ -1,9 +1,0 @@
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/Git-2.22.0-64-bit.exe
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/TortoiseGit-2.8.0.0-64bit.msi
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/WinSCP-5.15.2-Setup.exe
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/apache-ant-1.10.5-bin_1.zip
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/eclipse-inst-win64.exe
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/jenkins-2.176.1.zip
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/npp.7.7.1.bin.x64.zip
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/openjdk-12%2B32_windows-x64_bin.zip
-https://aws-training-relance.s3.amazonaws.com/b6/softwares/putty-0.70-installer.msi
